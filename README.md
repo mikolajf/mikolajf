@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mikolaj</h1>
 <h3 align="center">Senior Quantitative Analyst, CQF certified</h3>
 
+- ⚡ I'm experienced Python developer, data analyst
+
 - 🌱 I’m currently learning **Vue.js, Flutter, AWS**
 
 - 📫 How to reach me **mikolaj.fido@gmail.com**
