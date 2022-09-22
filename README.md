@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mikolaj.fido@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jHRzPgNIgqe99X6w2LyPwhFVg3OYcRPT/view?usp=sharing](https://drive.google.com/file/d/1jHRzPgNIgqe99X6w2LyPwhFVg3OYcRPT/view?usp=sharing)
+- 📄 Know about my experiences https://bit.ly/mikolajf-resume](https://bit.ly/mikolajf-resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
