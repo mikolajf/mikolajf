@@ -23,5 +23,5 @@
 - **Tools & Platforms:**
   - Docker, Git, AWS
 - **Currently exploring:**
-  - [Marimo notebooks](https://marimo.run/) 
+  - [Marimo notebooks](https://docs.marimo.io/)
   - [Streamlit](https://streamlit.io/)
