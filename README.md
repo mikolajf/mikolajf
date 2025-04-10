@@ -7,7 +7,7 @@
 
 - 📫 Reach out to me via email: [mikolaj.fido@gmail.com](mailto:mikolaj.fido@gmail.com).
 
-- 📄 You can find more about my professional experiences and qualifications on my [resume](https://bit.ly/mikolajf-resume).
+- 📄 You can find more about my professional experiences and qualifications on my [resume](https://drive.google.com/file/d/1KoemAVgwVPpOhgWZFrFRrunFMhOa8wtQ/view?usp=sharing).
 
 ### Connect with me:
 - [LinkedIn](https://linkedin.com/in/mikolaj-fido)
